@@ -1,20 +1,6 @@
-# Structure_Learning_Study
+# Priors_Study
 
-This repository presents my notes in Bayesian modelling, causal discovery and causal inference. It also contains my notes on the Structure Learning reading group at the Human Institute of Technology (HTI), University of Technology of Sydney.
-
-# Bayesian Data Analysis
- Study notes of the book *Bayesian Data Analysis (3rd ed)* by Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, and Donald Rubin.
-
-
-
-## Reading Group
-
-Study notes on the Structure Learning reading group at the Human Institute of Technology (HTI), University of Technology Sydney.
-
-### July 2023
-  - [[Castelletti and Peluso, 2022] Network Structure Learning Under Uncertain Interventions](./reading_group/sessions/2023_07_03/Castelletti_and_Peluso_2022.md)
-
-
+This repository presents my notes on Bayesian modelling, causal discovery and causal inference.
 
 ## Bayesian Modelling and Structure Learning Studies
 
